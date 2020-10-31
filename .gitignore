@@ -2,4 +2,4 @@
 /target/
 
 #exclude file extensions
-.pu
+*.pu
